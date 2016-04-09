@@ -1,0 +1,3 @@
+[submodule "gluu-federation-docker"]
+	path = gluu-federation-docker
+	url = git@github.com:GluuFederation/gluu-docker.git
